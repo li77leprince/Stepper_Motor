@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=A2 Pin=A0-2
+Removed Pin From Net: NetName=A0 Pin=A2-2
+Removed Pin From Net: NetName=A4 Pin=A3-2
+Removed Pin From Net: NetName=A3 Pin=A4-2
+Added Pin To Net: NetName=A0 Pin=A0-2
+Added Pin To Net: NetName=A2 Pin=A2-2
+Added Pin To Net: NetName=A3 Pin=A3-2
+Added Pin To Net: NetName=A4 Pin=A4-2
+Added Room: Name=StepperMotorBoard

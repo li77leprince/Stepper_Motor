@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=A4 Pin=A4-2
+Change Component Designator: OldDesignator=Q1 NewDesignator=Q?
+Added Pin To Net: NetName=A3 Pin=A4-2
+Added Room: Name=StepperMotorBoard
